@@ -7,3 +7,6 @@ W. Avy wants to know the temperature data for June and December because he wants
 Below is a table showing the temperatures for June and December:
 | Temperature | June | December |
 |-------------|------|----------|
+| Minimum     | 64   | 56       |
+| Maximum     | 85   | 83       |
+
